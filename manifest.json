@@ -1,0 +1,21 @@
+{
+  "name": "Blankly",
+  "short_name": "Blankly",
+  "start_url": "app.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#111111",
+  "description": "A distraction-free minimalist writing space.",
+  "icons": [
+    {
+      "src": "Blankly1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Blankly2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
